@@ -1,5 +1,5 @@
 local function(print)
   if print then
-    print("hello world"
+    print("hello world")
   end
 helloworld(print)
